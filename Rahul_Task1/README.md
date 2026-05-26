@@ -1,8 +1,8 @@
-# AI Voice Assistant
+# Voice Assistant
 
 ## Description
 
-This is a Python-based AI Voice Assistant project that can perform various voice-controlled tasks using speech recognition and text-to-speech technologies.
+This is a Python-based Voice Assistant project that can perform various voice-controlled tasks using speech recognition and text-to-speech technologies.
 
 The assistant can:
 
