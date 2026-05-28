@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import requests
-API_KEY="e2c1b69e24ea866938ba53ad4eb4c968"
+API_KEY="your_api_key"
 
 def get_weather():
     city=city_entry.get()
